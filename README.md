@@ -1,6 +1,7 @@
 # Redux practice: simple login example
+once clicking login, authentication passed, website will change since global state change.
 
-##　 using redux toolkit
+## using redux toolkit
 
 1. createSlice helps saperate states into group
 2. configureStore replaces createStore, it organizes multiple reducers from slices into one reducer.
